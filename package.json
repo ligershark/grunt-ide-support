@@ -1,0 +1,17 @@
+{
+	"name": "grunt-ide-support",
+	"description": "Makes Grunt easier to tool inside editors and IDEs.",
+	"version": "0.1.0",
+	"author": {
+		"name": "Mads Kristensen",
+		"email": "madsk@microsoft.com"
+	},
+	"license": "Apache 2.0",
+	"devDependencies": {
+		"load-grunt-config": "^0.13.1",
+		"jshint-stylish": "~0.1.5"
+	},
+	"peerDependencies": {
+		"grunt": "~0.4.0"
+	}
+}
