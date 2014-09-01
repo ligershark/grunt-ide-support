@@ -7,6 +7,13 @@
 		"email": "madsk@microsoft.com"
 	},
 	"license": "Apache 2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ligershark/grunt-ide-support.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ligershark/grunt-ide-support/issues"
+	},
 	"devDependencies": {
 		"load-grunt-config": "^0.13.1",
 		"jshint-stylish": "~0.1.5"
